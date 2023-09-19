@@ -1,0 +1,3369 @@
+fileFormatVersion: 2
+guid: fede2317fb6fbed4ab8a1e58a1733870
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: binding-of_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4944
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d536401c9c39546b2c58cb392e569e
+      internalID: -389018782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4959
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c67eab8752a043b7a7b3a8613b51a
+      internalID: 1214067216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 4951
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aaa04970648dd45ab9d96000681c2e
+      internalID: -686528716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 4926
+        width: 221
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327995425638c94479c8b03d4b933047
+      internalID: 1893320317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_4
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 4926
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d21dc575dbbf42bc3ec09732ed38f
+      internalID: 1702187932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_5
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 4936
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938313d482bb28e4e8d052ffb7399097
+      internalID: -1325341120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_6
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 4951
+        width: 226
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec28a642cffe4b429f8327f93be689e
+      internalID: 578157642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_7
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 4951
+        width: 218
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce4bfca1360b74eb8f56798f4a451e
+      internalID: -1671694684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_8
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 4951
+        width: 221
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7373a3a87bf87042b5efed8cf9c6a02
+      internalID: -349148311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_9
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 4936
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171ac72af18aea74889eeba837d75d52
+      internalID: 1605302265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 4584
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c50279f0619b54f8770e79f7d73e92
+      internalID: 2082752460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 4599
+        width: 219
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7049a3ff197f9641b3d3648387397ec
+      internalID: 992799643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4607
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fed4e99b63dbe945b15c715789780f6
+      internalID: 1947085305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_13
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 4591
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992fcc44dec8c240a5a357d9a92c26b
+      internalID: -698135978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_14
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4584
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd0863893d7444b9b6d45905ac7f66
+      internalID: -2057415674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_15
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 4591
+        width: 219
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ab97c1ec855b45aa4fa782bd39b8c
+      internalID: -1982358328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_16
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 4584
+        width: 226
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d49e519a42a3184a91c1e8e7c3de51d
+      internalID: 1620537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_17
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 4584
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d5542628ecf294890f3d391d8a3045
+      internalID: 319818226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_18
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 4568
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950403023f12c91438e48d5c7bf446ea
+      internalID: -866087442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_19
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 4576
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b6fab87c5e764f972dea76b504355
+      internalID: -21011541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4242
+        width: 227
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a562537b98a206e4fa1cd50ae8334e77
+      internalID: -1327175362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4250
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c682f71174c514cb7375e08071a0de
+      internalID: 960314879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_22
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 4250
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffaee5a5fb2afd479ea7efbbf27b957
+      internalID: -2083523278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_23
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 4234
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ff8251848a2f84880a56218ebad1ba
+      internalID: -1987267136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_24
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 4242
+        width: 226
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2e2c37fd35ff645a767917967cd3c6
+      internalID: 1981154462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_25
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 4250
+        width: 221
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e761ac763cba646a225fadd7650249
+      internalID: 1266849370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_26
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 4250
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3140c6d580852429b211ca792a5319
+      internalID: 1635548586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_27
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 4242
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a307fb4611433945b78632c44f61918
+      internalID: 1968867462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_28
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 4224
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a662a3c9f16a6de46bec1868dcaa398e
+      internalID: -487230994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_29
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 4234
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f3bb95e63d724ea299a03dc4e8606
+      internalID: 115408199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3897
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f42340752a5db458e4815083ab7f5d
+      internalID: -2016133672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_31
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3892
+        width: 229
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873fbd18ff5eda4094cde5ba43fc03b
+      internalID: -881861971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_32
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 3882
+        width: 218
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b75b902fe8e964ea7be7d1b385cc86
+      internalID: -1748039712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_33
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3890
+        width: 218
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dbf3551134644459b34148c84047b8
+      internalID: 1054084459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_34
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3874
+        width: 227
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1650e03ffdc361948b45b5598bf0f755
+      internalID: 1578430642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_35
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 3874
+        width: 219
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a99702b5c117d478386112851e112a
+      internalID: 1542059664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_36
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 3882
+        width: 224
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186eb6ca7a6fee489e5b2daf3331fb7
+      internalID: -1001840328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_37
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 3874
+        width: 224
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20575496903ac224b82a86ea1787dc2f
+      internalID: -33500995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_38
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3890
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91dddbc8385abd42abf5d3cb62b4952
+      internalID: -1914215099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_39
+      rect:
+        serializedVersion: 2
+        x: 4733
+        y: 3882
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcefc5a7080d6604386d0d96420a9988
+      internalID: 1820608634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3517
+        width: 226
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6174e1ef34c38524794cc8201d708a18
+      internalID: 829658375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_41
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3522
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c80cb6e3aea6ec45bce5a61cbbce647
+      internalID: 201573887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_42
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3522
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22301e26f3befd34caeb75642a515f7f
+      internalID: 1940978219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_43
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 3532
+        width: 229
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caca85d1a754e24280ce93003428f08
+      internalID: -1621199395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_44
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3540
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d121c09c62d38458d55d6dc3ecadf7
+      internalID: 115767397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_45
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3532
+        width: 228
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7243f304c1d6b44a8a5c844d2d7015
+      internalID: 2057082211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_46
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 3532
+        width: 228
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5416a2eabfffa84a8dff37d96a47b8b
+      internalID: 1401202566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_47
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3532
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd07f4be9f97a6d42afabb9e5dc89d2c
+      internalID: 411570095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_48
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 3532
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16bcaf525414440b218f86c6a1a145
+      internalID: -1503067127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_49
+      rect:
+        serializedVersion: 2
+        x: 4679
+        y: 3532
+        width: 226
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653a342ab109a344fb50657e4fa81b1e
+      internalID: 2138905170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3180
+        width: 227
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce2b5c035433e24ba523efa6a15637a
+      internalID: 1685743522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_51
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3180
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15259cfad61f44a4daedee435d4f40fe
+      internalID: 755989420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_52
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3180
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fdc7c10b48764c8593e5a4321d234
+      internalID: -1190348087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_53
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 3188
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8e2082f66bcc4397000473d2a0187
+      internalID: 1505138105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_54
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3180
+        width: 219
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dfee16a189f2f4183c4e99bc4b1991
+      internalID: 798281376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_55
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 3172
+        width: 228
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47f613612246749a7eee7b5081688e
+      internalID: -1164049670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_56
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 3157
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739bf0bcd8325544f99fc1a12f643761
+      internalID: -286577873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_57
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 3157
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f835fa1673f6846b12d0c4ddd71ff7
+      internalID: 2140612011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_58
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 3165
+        width: 229
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dfd74dc965a5d4aaa699575a1a7af9
+      internalID: -594442163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_59
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 3172
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f8ca8a35619894cb35a3c24c8f69a0
+      internalID: 545863094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2830
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6895441e61b83a54e894a4ef6e6cbcb3
+      internalID: -871843816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_61
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2838
+        width: 219
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee185e798349b488867e4a4bbafc3d
+      internalID: 666832620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_62
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2838
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1490ac97f9e47e3478e0210a7b5296de
+      internalID: -1040660994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_63
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2838
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18dc0f960e937f4696303bc8082e8ce
+      internalID: -2145445335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_64
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2846
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f790505d85d2479c1b14648012c59
+      internalID: 1178685732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_65
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 2854
+        width: 229
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b9cb356e131144ebf1d88d3e5b1e1d
+      internalID: 593147020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_66
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2838
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cfbcc84387da54c8552101475e629d
+      internalID: 2076532213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_67
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 2815
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df8515f77d0bb549b1552172a4fcd5c
+      internalID: 46180408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_68
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2805
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daff054f6ca87e4592e7c5e1e4fdefe
+      internalID: -845451705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_69
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 2820
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeae506fa872cb429657432f83c066a
+      internalID: 1429358951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2486
+        width: 229
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a422b53b5b3474d88b227e1e7a5747
+      internalID: -1566038241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_71
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2478
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d7b498a5606804fa5e716443b0c04a
+      internalID: -851184231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_72
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2478
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489cae4888d9ee14894405d0eb153420
+      internalID: 1055776570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_73
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2471
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d94eb21e8dc4488835f943cf035f9
+      internalID: -1841443414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_74
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2463
+        width: 229
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf025b1241bd4174bbf09eac689b48d1
+      internalID: 1670403681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_75
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 2471
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db52daba9467354bb4190b75e1a7926
+      internalID: -34925971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_76
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 2486
+        width: 227
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104cb89bcca7d240a4c38fc2b1d84e3
+      internalID: 1449773454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_77
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 2486
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d78e9d75541e4aba01e602fc3570d
+      internalID: 1086773837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_78
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2478
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61181c23c99d6454b81c267bf53e8ba0
+      internalID: -1761473790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_79
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 2463
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57901b6d110b30d4caf551244d14d3d5
+      internalID: -2082661624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_80
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2111
+        width: 219
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b28f366905654ab67354f4ea1a8ec
+      internalID: 2020144555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_81
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2134
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001ccb1656d80b48bce3efc8929beb4
+      internalID: 1658526809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_82
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2129
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c40c7a29bbd104887d8cb4e95a7aeb
+      internalID: -436794125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_83
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 2129
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8018fe4a5ef6f4083a8186d5c1b774
+      internalID: -1226194361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_84
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2129
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92bd4dc4f129546a5f6234d8b06915
+      internalID: -2009176200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_85
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 2129
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d81f0215c0bb94f8435a9529e79790
+      internalID: -407116488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_86
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2129
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72d45b13270ced468e271be7f5722d8
+      internalID: 328524693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_87
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 2129
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34238a2828ad1f4194c1b7edcf64482
+      internalID: 618638540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_88
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 2129
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31542f6d7d2266844aab9a806ccc1aec
+      internalID: -929907086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_89
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 2129
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2c0a7b3286d2143ae4ee5455475157
+      internalID: 453308382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1776
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2627f213d03376546a07d43197b66c99
+      internalID: -647628240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1776
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af088286e1219eb4ab6510ad20ef129f
+      internalID: -562497460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_92
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1776
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11058245110cf5b4283e41843a90a869
+      internalID: 521649253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_93
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1769
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af9fbae6eb8dd43a238c6b27b25467
+      internalID: 767587827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_94
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1769
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb52f62bdd8dba8479b782a7f0d512fa
+      internalID: 281109645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_95
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1776
+        width: 229
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252714b57c551e42b7aa88f643d7ef9
+      internalID: 801884225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_96
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 1776
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d256e600d0c6d164e8ef2196b3cb930b
+      internalID: -1259308023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_97
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 1769
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d2f3eb90fba9349a52599605f50dd6
+      internalID: -1420360596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_98
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1769
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc12cfa24841a1541b087c2e45b0e0c0
+      internalID: -976038990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_99
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 1769
+        width: 226
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bfb8c72e39ff44699ed505fc081395
+      internalID: 57720241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1417
+        width: 229
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8208bbe633ae87f4b9c0e74eb3486087
+      internalID: 1342233775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_101
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1417
+        width: 229
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befe3df7c1186394383a2eec6c9783e8
+      internalID: 1115221506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_102
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1432
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985aeae790a897e45beaba0c1c19dd49
+      internalID: 1815325412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_103
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1417
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db69e3184e61f4b98ffe15ff998343
+      internalID: -1059279735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_104
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1424
+        width: 218
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39b9be97db57349a49355d4b09ff2c
+      internalID: 774974283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_105
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 1432
+        width: 229
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a9d1a7f8ed2e24a99ba21c4252cb57
+      internalID: -400053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_106
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1427
+        width: 227
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01da88043230374ab81f1c3e9c3274b
+      internalID: -1653255660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_107
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1427
+        width: 226
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ecf784666be54ab7b5f403b94e5fc
+      internalID: 1821661293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_108
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 1417
+        width: 229
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e52e265671f249a76fe11aa1c3ab2
+      internalID: 283108852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_109
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1427
+        width: 226
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fa78de5099e24396097f8d32d9a0f
+      internalID: -1713367818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1075
+        width: 229
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac514faa2512f4ebadd5d482aad9d6
+      internalID: -1958165503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_111
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1067
+        width: 226
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64655bd798227cc43b47e4fa7cc47804
+      internalID: -270318705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_112
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1075
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8aaef3cbd28fc498e6a4719fd36eb8
+      internalID: -668567749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_113
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1090
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031fbe28e8f3576458e57acbf1cde15d
+      internalID: 851153048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_114
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1090
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0921d72b2e112d439d1211d23f517d9
+      internalID: -2088283065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_115
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1075
+        width: 226
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddd3b7dc9bd6d4f8d5d4927144e0fc
+      internalID: -1367524807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_116
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 1067
+        width: 218
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51eb61f3e3e65f4abbace933fb954f0
+      internalID: -149680883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_117
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1082
+        width: 218
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3beb66e55cbb0849a45992570686d12
+      internalID: 750403720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_118
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 1075
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364923d7ae43b42448568cb5b8195d1f
+      internalID: 1171089442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_119
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 1059
+        width: 218
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a08d230e21124d47b39de512ce33b84
+      internalID: -1192087444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_120
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 707
+        width: 226
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac058697a86134eaed7d0bf47e7458
+      internalID: 1363988817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_121
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 725
+        width: 218
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a713e514ac4dbcb4b8a6cdc6cfba4244
+      internalID: -1855077749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_122
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 725
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d3b8875346204db22e5ff0fcf3073
+      internalID: 2129917640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_123
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 725
+        width: 219
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857c3e49b170df488d6594af1e3840a
+      internalID: 296667599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_124
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 725
+        width: 221
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5732a11813fdf449380e173e7e5934
+      internalID: -332445853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_125
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 715
+        width: 218
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87013f52f9468f14db7633c859065dbd
+      internalID: 2071757883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_126
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 725
+        width: 226
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8e81056d79de4ca6b05c28c7f697c
+      internalID: -1621916757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_127
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 730
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9439cd79c4370a84185b12dc53d3a226
+      internalID: 149039073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_128
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 730
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fdc8a06a6840c42aee23d6891e1f6b
+      internalID: -1427227241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_129
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 722
+        width: 227
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b817e9f17b9aa64da201c0c5d131269
+      internalID: -1032511101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_130
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 373
+        width: 229
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856fe45399503b34587721881dd95900
+      internalID: -86108007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_131
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 380
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6039d4eab1aee4cbeb77c819759283
+      internalID: -929677730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_132
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 380
+        width: 228
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2364cbca29640248b499daf49da9f2e
+      internalID: -115664463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_133
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 388
+        width: 221
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825cd4957e559214baf08910acaf4486
+      internalID: -1029123678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_134
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 380
+        width: 218
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be01e2846c24b4a8d9d0db6efffc13
+      internalID: 1365285868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_135
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 380
+        width: 221
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8ac9ce175ce140849efcba6b55157
+      internalID: 1780013293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_136
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 373
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27861db8f9fe1fc46a852d386631909b
+      internalID: 1428268525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_137
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 357
+        width: 221
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787432225ca172740ae8502429ef8a65
+      internalID: 1002087676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_138
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 357
+        width: 219
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8218bb1b89f730d48be5d579c5a94223
+      internalID: -1112229228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_139
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 365
+        width: 221
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db54a5294a9eb4eaafd082af14d957
+      internalID: 949796119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_140
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 23
+        width: 213
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560b8f91f8249fc42be2c753b53674ee
+      internalID: 2142976975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_141
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 23
+        width: 221
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9baf6114b7a0084ca06ac1b093976b3
+      internalID: -1733357065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_142
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 28
+        width: 218
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e93b8df0ec631c44ae0389f25422bdd
+      internalID: 159089159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_143
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 28
+        width: 219
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726689a163e9144aaedae96030a936b
+      internalID: 2050053272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_144
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 28
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb448c8f07ead4187173fa28474a5c
+      internalID: 226308421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_145
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 28
+        width: 219
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f0855ea239a384c97702c8a6d81a44
+      internalID: 443803436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: binding-of_146
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 28
+        width: 221
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c30fff2e075745a77190ae4e34496
+      internalID: -1111948192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      binding-of_135: 1780013293
+      binding-of_2: -686528716
+      binding-of_71: -851184231
+      binding-of_91: -562497460
+      binding-of_3: 1893320317
+      binding-of_49: 2138905170
+      binding-of_15: -1982358328
+      binding-of_92: 521649253
+      binding-of_80: 2020144555
+      binding-of_54: 798281376
+      binding-of_87: 618638540
+      binding-of_143: 2050053272
+      binding-of_36: -1001840328
+      binding-of_124: -332445853
+      binding-of_86: 328524693
+      binding-of_76: 1449773454
+      binding-of_140: 2142976975
+      binding-of_37: -33500995
+      binding-of_126: -1621916757
+      binding-of_125: 2071757883
+      binding-of_1: 1214067216
+      binding-of_30: -2016133672
+      binding-of_82: -436794125
+      binding-of_111: -270318705
+      binding-of_95: 801884225
+      binding-of_5: -1325341120
+      binding-of_89: 453308382
+      binding-of_70: -1566038241
+      binding-of_138: -1112229228
+      binding-of_9: 1605302265
+      binding-of_58: -594442163
+      binding-of_19: -21011541
+      binding-of_38: -1914215099
+      binding-of_34: 1578430642
+      binding-of_27: 1968867462
+      binding-of_60: -871843816
+      binding-of_145: 443803436
+      binding-of_74: 1670403681
+      binding-of_141: -1733357065
+      binding-of_42: 1940978219
+      binding-of_121: -1855077749
+      binding-of_59: 545863094
+      binding-of_88: -929907086
+      binding-of_105: -400053497
+      binding-of_115: -1367524807
+      binding-of_144: 226308421
+      binding-of_56: -286577873
+      binding-of_14: -2057415674
+      binding-of_57: 2140612011
+      binding-of_8: -349148311
+      binding-of_81: 1658526809
+      binding-of_25: 1266849370
+      binding-of_65: 593147020
+      binding-of_64: 1178685732
+      binding-of_21: 960314879
+      binding-of_119: -1192087444
+      binding-of_4: 1702187932
+      binding-of_41: 201573887
+      binding-of_98: -976038990
+      binding-of_33: 1054084459
+      binding-of_35: 1542059664
+      binding-of_66: 2076532213
+      binding-of_142: 159089159
+      binding-of_93: 767587827
+      binding-of_22: -2083523278
+      binding-of_61: 666832620
+      binding-of_118: 1171089442
+      binding-of_78: -1761473790
+      binding-of_129: -1032511101
+      binding-of_90: -647628240
+      binding-of_101: 1115221506
+      binding-of_6: 578157642
+      binding-of_43: -1621199395
+      binding-of_146: -1111948192
+      binding-of_106: -1653255660
+      binding-of_113: 851153048
+      binding-of_75: -34925971
+      binding-of_132: -115664463
+      binding-of_137: 1002087676
+      binding-of_29: 115408199
+      binding-of_46: 1401202566
+      binding-of_97: -1420360596
+      binding-of_103: -1059279735
+      binding-of_47: 411570095
+      binding-of_139: 949796119
+      binding-of_134: 1365285868
+      binding-of_23: -1987267136
+      binding-of_18: -866087442
+      binding-of_63: -2145445335
+      binding-of_11: 992799643
+      binding-of_0: -389018782
+      binding-of_110: -1958165503
+      binding-of_26: 1635548586
+      binding-of_51: 755989420
+      binding-of_52: -1190348087
+      binding-of_131: -929677730
+      binding-of_17: 319818226
+      binding-of_72: 1055776570
+      binding-of_99: 57720241
+      binding-of_44: 115767397
+      binding-of_130: -86108007
+      binding-of_50: 1685743522
+      binding-of_73: -1841443414
+      binding-of_28: -487230994
+      binding-of_94: 281109645
+      binding-of_107: 1821661293
+      binding-of_117: 750403720
+      binding-of_128: -1427227241
+      binding-of_84: -2009176200
+      binding-of_55: -1164049670
+      binding-of_7: -1671694684
+      binding-of_10: 2082752460
+      binding-of_68: -845451705
+      binding-of_112: -668567749
+      binding-of_127: 149039073
+      binding-of_120: 1363988817
+      binding-of_20: -1327175362
+      binding-of_123: 296667599
+      binding-of_39: 1820608634
+      binding-of_24: 1981154462
+      binding-of_40: 829658375
+      binding-of_108: 283108852
+      binding-of_69: 1429358951
+      binding-of_114: -2088283065
+      binding-of_96: -1259308023
+      binding-of_122: 2129917640
+      binding-of_79: -2082661624
+      binding-of_136: 1428268525
+      binding-of_31: -881861971
+      binding-of_32: -1748039712
+      binding-of_53: 1505138105
+      binding-of_45: 2057082211
+      binding-of_133: -1029123678
+      binding-of_12: 1947085305
+      binding-of_62: -1040660994
+      binding-of_67: 46180408
+      binding-of_48: -1503067127
+      binding-of_83: -1226194361
+      binding-of_104: 774974283
+      binding-of_116: -149680883
+      binding-of_13: -698135978
+      binding-of_77: 1086773837
+      binding-of_109: -1713367818
+      binding-of_85: -407116488
+      binding-of_102: 1815325412
+      binding-of_16: 1620537979
+      binding-of_100: 1342233775
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

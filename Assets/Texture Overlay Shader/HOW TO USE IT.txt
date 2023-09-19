@@ -1,0 +1,15 @@
+This shader let you add 3 textures over a base texture, with different offset, scales and alpha (Same alpha for 3).
+You can add normal maps to add details over your textures.
+For Randomize the scales and offset you need to add Texture Overlay Handler in you script
+this has a boolean flag with will let you randomize when the game initialize. 
+If you want to use this randomize feature you can use from the context menu of the script and 
+call the Randomize method. You can get an warning from Unity but nothing to worried. 
+More details in the code.
+
+Feel free to modify this shader.
+The textures in this package are from a free asset in the unity asset store called Blood splatter decal package
+Thank you for use this shader
+
+▒█▀▀█ ▒█░▒█ ░█▀▀█ ▒█▀▀█ ▒█▀▀▀█ 
+▒█░░░ ▒█▀▀█ ▒█▄▄█ ▒█▄▄▀ ░▀▀▀▄▄ 
+▒█▄▄█ ▒█░▒█ ▒█░▒█ ▒█░▒█ ▒█▄▄▄█ 
